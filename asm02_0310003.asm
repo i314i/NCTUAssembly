@@ -1,4 +1,4 @@
-; name: ªô¥°¼Ý
+; name: ¿¿¿
 ; student ID: 0310003
 ; email address:i314i@yahoo.com.tw
 
@@ -19,7 +19,7 @@ INCLUDE Macros.inc
 	menu1_2 BYTE "       1               2                3          ",0
 	sound BYTE 7, 0 ;sound
 
-	menu4_1 BYTE "ID: 0310003",13,10,"Name: ªô¥°¼Ý",13,10,"Email address: i314i@yahoo.com.tw",13,10,0
+	menu4_1 BYTE "ID: 0310003",13,10,"Name: ¿¿¿",13,10,"Email address: i314i@yahoo.com.tw",13,10,0
 	
 	newLine BYTE 13,10,0 ;´«¦æ
 	border BYTE "-------------------------------------",13,10,0
